@@ -21,7 +21,7 @@ print ("Total value:", t)
 
 
 if t > 7:
-    print("You won!")
+    print(name + " won!")
 
 else: 
-    print("You lost!")
+    print(name +    " lost!")
