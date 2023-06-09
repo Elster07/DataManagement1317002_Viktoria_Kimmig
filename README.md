@@ -1,0 +1,2 @@
+# DataManagement1317002_Viktoria_Kimmig
+Data Management Exercise
